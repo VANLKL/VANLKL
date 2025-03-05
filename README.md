@@ -5,7 +5,7 @@
 
 👋 **Minecraft Mod Developer** crafting high-performance mods from Chongqing, China  
 
-🎓 Undergraduate at Chongqing University of Science and Technology 
+🎓 Undergraduate at **Chongqing University of Science and Technology** 
 
 🚀 Turning game concepts into optimized code solutions since 2023
 
