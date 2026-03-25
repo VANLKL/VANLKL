@@ -1,50 +1,34 @@
-# ​**VANLKL**​  
-#### 🎯 *Minecraft Mod Architect • AI-empowered developer • Open Source Contributor*  
+# Hi there, I'm VANLKL 👋
+
+### 🎮 Minecraft Mod Developer | 💻 Java Learner | 🌐 Linux & Networking Explorer
+
+📍 **Chongqing, China**  
+🎓 **Undergraduate at Chongqing University of Science and Technology**
+
+I enjoy building things that actually run — from **Minecraft mods** to **small backend services**, with a strong interest in **Linux**, **networking**, and **deployment**.
+
+Currently learning by doing, improving step by step through hands-on projects and open source practice.
 
 ---
 
-👋 **Minecraft Mod Developer** crafting high-performance mods from Chongqing, China  
+### 🚀 Currently Exploring
 
-🎓 Undergraduate at **Chongqing University of Science and Technology** 
-
-🚀 Turning game concepts into optimized code solutions since 2023
-
----
-
-### 🔧 Technical Arsenal
-
-**Core Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Modding Expertise(not exactly)**  
-![Forge](https://img.shields.io/badge/Minecraft_Forge-8C8C8C?style=for-the-badge&logo=curseforge)
-![Fabric](https://img.shields.io/badge/Fabric_Loader-DBD2B6?style=for-the-badge)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
+- **Java / Spring Boot**
+- **Linux, networking, and cloud server deployment**
+- **Minecraft modding and open source projects**
 
 ---
 
-### 🚀 Current Engines
+### 🔧 Tech Interests
 
-- **JVM Tuning**: Squeezing every millisecond from Minecraft mods
-- **ECS Architecture**: Building scalable mod systems with Entity-Component patterns
-
----
-
-### 🌐 Modding Networks
-
-<!--[![CurseForge](https://img.shields.io/badge/CurseForge-6441A4?style=flat&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/VANLKL/projects)-->
-<!--[![Modrinth](https://img.shields.io/badge/Modrinth-1BD96A?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/user/VANLKL)-->
-[![CurseForge](https://img.shields.io/badge/CurseForge-6441A4?style=flat&logo=curseforge&logoColor=white)](https://www.curseforge.com)
-[![Modrinth](https://img.shields.io/badge/Modrinth-1BD96A?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com)
+`Java` `Python` `C++` `Linux` `Networking` `Spring Boot` `Minecraft Modding`
 
 ---
 
-### 📮 Packet Channel
+### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Mod_Mail-lkl80%40outlook.com-0078D4?style=flat&logo=protonmail)](mailto:lkl80@outlook.com)
+- **Email**: vanlkl1000@gmail.com
 
 ---
 
-🔮 *"Optimizing virtual worlds one nanosecond at a time"*
+> Building practical things, one project at a time.
