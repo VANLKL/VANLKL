@@ -29,7 +29,7 @@ Currently learning by doing, improving step by step through hands-on projects an
 ### 📫 Contact
 
 - **Email**: vanlkl1000@gmail.com
-- **Bilibili**: [哔哩哔哩](https://space.bilibili.com/89347800?spm_id_from=333.1007.0.0)
+- **Bilibili**: [Bilibili](https://space.bilibili.com/89347800?spm_id_from=333.1007.0.0)
 
 ---
 
