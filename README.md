@@ -24,8 +24,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovo80&show_icons=true&theme=dark#gh-dark-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovo80&show_icons=true&theme=default#gh-light-mode-only)
+![Followers](https://img.shields.io/github/followers/ovo80?style=for-the-badge&logo=github&label=Followers&labelColor=6e7781&color=24292f)
+![Stars](https://img.shields.io/github/stars/ovo80?style=for-the-badge&logo=github&label=Stars&labelColor=6e7781&color=24292f)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&labelColor=6e7781&color=24292f&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fovo80&query=public_repos)
 
 ## 📫 Contact
 
