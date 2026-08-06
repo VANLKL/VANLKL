@@ -1,36 +1,33 @@
 # Hi there, I'm ovo80 👋
 
-### 💻 Java Learner | 🎮 Minecraft Modding Enthusiast | 🌐 Linux & Networking Explorer
-
-📍 **Chongqing, China**  
-🎓 **Undergraduate at Chongqing University of Science and Technology**
-
-I enjoy building things that actually run — from **Minecraft mods** to **small backend services**.  
-I'm especially interested in **Linux**, **networking**, **deployment**, and learning how real systems work in practice.
-
-Currently learning by doing, improving step by step through hands-on projects and open source practice.
-
----
-
-### 🚀 Currently Exploring
-
-- **Java / Spring Boot**
-- **Linux, networking, and cloud server deployment**
-- **Minecraft modding and open source projects**
-
----
-
-### 🔧 Tech Focus
-
-`Java` `Spring Boot` `Linux` `Networking` `Deployment` `Minecraft Modding`
-
----
-
-### 📫 Contact
-
-- **Email**: vanlkl1000@gmail.com
-- **Bilibili**: [Bilibili](https://space.bilibili.com/89347800?spm_id_from=333.1007.0.0)
-
----
-
+> 从模组到服务器，我在让东西跑起来的过程中学习。
 > From mods to servers, I learn by making things work.
+
+## 🧑‍💻 About Me
+
+- 📍 中国重庆 · 重庆科技大学本科生
+- 💻 主攻 **Java / Spring Boot** 后端开发
+- 🎮 业余折腾 **Minecraft 模组**
+- 🌐 关注 **Linux / 网络 / 云服务器部署**
+- 📚 信奉动手实践：边做边学，开源驱动成长
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+
+## 🚀 Featured Projects
+
+- 🔗 [WOL](https://github.com/ovo80/WOL) - 轻量级桌面应用：通过 UDP 广播发送 Wake-on-LAN 魔术包，唤醒局域网内的远程计算机。
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovo80&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovo80&show_icons=true&theme=default#gh-light-mode-only)
+
+## 📫 Contact
+
+- 📧 Email: vanlkl1000@gmail.com
+- 📺 Bilibili: [我的空间](https://space.bilibili.com/89347800?spm_id_from=333.1007.0.0)
